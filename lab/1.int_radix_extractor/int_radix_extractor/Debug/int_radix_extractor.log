@@ -1,0 +1,13 @@
+﻿Build started 4/6/2014 12:04:47 PM.
+Project "C:\Users\albertogiunta\Dropbox\Università\!Secondo semestre\!!!Architetture degli Elaboratori\Laboratorio\Settimana 3\int_radix_extractor\int_radix_extractor\int_radix_extractor.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt int_radix_extractor.c
+  int_radix_extractor.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\albertogiunta\Dropbox\Università\!Secondo semestre\!!!Architetture degli Elaboratori\Laboratorio\Settimana 3\int_radix_extractor\Debug\int_radix_extractor.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\albertogiunta\Dropbox\Università\!Secondo semestre\!!!Architetture degli Elaboratori\Laboratorio\Settimana 3\int_radix_extractor\Debug\int_radix_extractor.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\albertogiunta\Dropbox\Università\!Secondo semestre\!!!Architetture degli Elaboratori\Laboratorio\Settimana 3\int_radix_extractor\Debug\int_radix_extractor.lib" /MACHINE:X86 Debug\int_radix_extractor.obj
+  int_radix_extractor.vcxproj -> C:\Users\albertogiunta\Dropbox\Università\!Secondo semestre\!!!Architetture degli Elaboratori\Laboratorio\Settimana 3\int_radix_extractor\Debug\int_radix_extractor.exe
+Done Building Project "C:\Users\albertogiunta\Dropbox\Università\!Secondo semestre\!!!Architetture degli Elaboratori\Laboratorio\Settimana 3\int_radix_extractor\int_radix_extractor\int_radix_extractor.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.07
